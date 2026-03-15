@@ -1,13 +1,55 @@
 # Ultimate AI Prompt Library
 
-Collection of high quality AI prompts for ChatGPT, Midjourney, and AI image tools.
+A curated collection of **high-quality AI prompts** for tools like **ChatGPT, Midjourney, and other AI image generators**.
+
+This repository is designed to help creators, developers, marketers, and designers generate better results using AI prompts.
 
 🌐 Website: https://kshare.in
 
-## Popular Prompts
+---
+
+## 🚀 Popular AI Prompts
+
 - Cinematic Portrait Prompt
 - AI Mini Me Prompt
 - Night Flash Portrait Prompt
 
-Read full prompts here:
-https://kshare.in/prompts/
+Explore more prompts here:
+
+👉 https://kshare.in/prompts/
+
+---
+
+## 🧠 ChatGPT Prompts for Writing Blog Posts
+
+If you're a blogger or content creator, these prompts can help you generate blog ideas, outlines, and SEO-friendly content quickly.
+
+📖 Read the guide:  
+👉 [ChatGPT Prompts for Writing Blog Posts](https://kshare.in/blog/chatgpt-prompts-for-writing-blog-posts)
+
+---
+
+## 📚 What You Will Find in This Repository
+
+This AI prompts library includes prompts for:
+
+- ChatGPT writing prompts
+- Blog writing prompts
+- Content marketing prompts
+- AI image generation prompts
+- Midjourney prompts
+- Productivity prompts
+
+Our goal is to build a **large open collection of useful AI prompts** for creators and developers.
+
+---
+
+## 🌍 More AI Prompt Resources
+
+Visit our website for more AI tools and prompt guides.
+
+🔗 https://kshare.in
+
+---
+
+⭐ If you find this repository useful, consider **starring the repo** to support the project.
