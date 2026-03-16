@@ -20,12 +20,13 @@ Explore more prompts here:
 
 ---
 
-## 🧠 ChatGPT Prompts for Writing Blog Posts
+## 🧠 List of Best Viral Trending AI Prompts for Image Generations Tools
 
 If you're a blogger or content creator, these prompts can help you generate blog ideas, outlines, and SEO-friendly content quickly.
 
 📖 Read the guide:  
 👉 [ChatGPT Prompts for Writing Blog Posts](https://kshare.in/blog/chatgpt-prompts-for-writing-blog-posts)
+👉 [AI Birthday Photoshoot Prompt – Princess Pink Gown Birthday Girl Image Prompt](https://kshare.in/prompt/ai-birthday-photoshoot-prompt-princess-birthday-girl)
 
 ---
 
