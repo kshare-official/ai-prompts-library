@@ -26,6 +26,7 @@ If you're a blogger or content creator, these prompts can help you generate blog
 
 📖 Read the guide:  
 👉 [ChatGPT Prompts for Writing Blog Posts](https://kshare.in/blog/chatgpt-prompts-for-writing-blog-posts)
+
 👉 [AI Birthday Photoshoot Prompt – Princess Pink Gown Birthday Girl Image Prompt](https://kshare.in/prompt/ai-birthday-photoshoot-prompt-princess-birthday-girl)
 
 ---
