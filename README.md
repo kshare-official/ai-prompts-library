@@ -34,6 +34,8 @@ If you're a blogger or content creator, these prompts can help you generate blog
 
 👉 [AI Editorial Portrait Prompt – Create Cinematic Orange-Red Studio Photos (Photorealistic AI Prompt](https://kshare.in/prompt/ai-editorial-portrait-prompt-cinematic-photorealistic-orange-red-studio-portrait)
 
+👉 [AI Editorial Fashion Portrait Prompt (Cinematic Magazine Cover Style)](https://kshare.in/prompt/ai-editorial-fashion-portrait-prompt-cinematic-magazine-cover-photo)
+
 ---
 
 ## 📚 What You Will Find in This Repository
