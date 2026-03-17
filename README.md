@@ -36,6 +36,8 @@ If you're a blogger or content creator, these prompts can help you generate blog
 
 👉 [AI Editorial Fashion Portrait Prompt (Cinematic Magazine Cover Style)](https://kshare.in/prompt/ai-editorial-fashion-portrait-prompt-cinematic-magazine-cover-photo)
 
+👉 [51 MidJourney Prompts for Realistic Portraits (2026 Guide)](https://kshare.in/blog/midjourney-prompts-for-realistic-portraits)
+
 ---
 
 ## 📚 What You Will Find in This Repository
