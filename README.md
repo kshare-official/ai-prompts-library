@@ -32,6 +32,8 @@ If you're a blogger or content creator, these prompts can help you generate blog
 
 👉 [Cyber Noir AI Portrait Prompt – Turn Any Photo into Futuristic Neon Cyberpunk Art](https://kshare.in/prompt/cyber-noir-ai-portrait-from-photo-neon-futuristic-photo-edit)
 
+👉 [AI Editorial Portrait Prompt – Create Cinematic Orange-Red Studio Photos (Photorealistic AI Prompt](https://kshare.in/prompt/ai-editorial-portrait-prompt-cinematic-photorealistic-orange-red-studio-portrait)
+
 ---
 
 ## 📚 What You Will Find in This Repository
