@@ -40,6 +40,8 @@ If you're a blogger or content creator, these prompts can help you generate blog
 
 👉 [Realistic Mirror Selfie AI Prompt (Indian Saree Girl) – Ultra Real Image Guide](https://kshare.in/prompt/realistic-mirror-selfie-ai-prompt-indian-saree-girl)
 
+👉 [Ultra Realistic AI Photo Prompt Guide (Cinematic Water Park Couple Scene)](https://kshare.in/prompt/ultra-realistic-cinematic-ai-photo-prompt-water-park-couple)
+
 ---
 
 ## 📚 What You Will Find in This Repository
