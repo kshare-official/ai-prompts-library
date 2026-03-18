@@ -38,6 +38,8 @@ If you're a blogger or content creator, these prompts can help you generate blog
 
 👉 [51 MidJourney Prompts for Realistic Portraits (2026 Guide)](https://kshare.in/blog/midjourney-prompts-for-realistic-portraits)
 
+👉 [Realistic Mirror Selfie AI Prompt (Indian Saree Girl) – Ultra Real Image Guide](https://kshare.in/prompt/realistic-mirror-selfie-ai-prompt-indian-saree-girl)
+
 ---
 
 ## 📚 What You Will Find in This Repository
