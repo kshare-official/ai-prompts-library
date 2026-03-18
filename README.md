@@ -1,3 +1,13 @@
+![GitHub stars](https://img.shields.io/github/stars/kshare-official/ai-prompts-library?style=social)
+![GitHub forks](https://img.shields.io/github/forks/kshare-official/ai-prompts-library?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/kshare-official/ai-prompts-library)
+![GitHub last commit](https://img.shields.io/github/last-commit/kshare-official/ai-prompts-library)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kshare-official.ai-prompts-library)
+![Website](https://img.shields.io/badge/Website-kshare.in-blue)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
+![AI Prompts](https://img.shields.io/badge/AI-Prompts-orange)
+![SEO Optimized](https://img.shields.io/badge/SEO-Optimized-yellow)
+
 # 🚀 Ultimate AI Prompt Library (2026)
 
 > 🔥 The most powerful collection of **high-converting AI prompts** for ChatGPT, Midjourney, and advanced AI tools.
