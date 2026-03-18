@@ -9,6 +9,7 @@
 ![SEO Optimized](https://img.shields.io/badge/SEO-Optimized-yellow)
 
 # 🚀 Ultimate AI Prompt Library (2026)
+⭐ If you find this useful, please star this repo to support the project!
 
 > 🔥 The most powerful collection of **high-converting AI prompts** for ChatGPT, Midjourney, and advanced AI tools.
 
