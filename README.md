@@ -26,9 +26,9 @@ Stylish portrait of a young man with modern hairstyle and beard, wearing sunglas
 
 ## 🌐 Explore Full Prompt Library
 
-👉 **Best AI Prompts Collection**: https://kshare.in
+👉 [**Best AI Prompts Collection**](https://kshare.in)
 
-👉 **Free ChatGPT Prompts**: https://kshare.in/prompts/
+👉 [**Free ChatGPT Prompts**](https://kshare.in/prompts/)
 
 💡 Discover **1000+ SEO-optimized prompts** for content writing, image generation, and automation.
 
@@ -99,6 +99,13 @@ Perfect for:
 
 ---
 
+## 📂 Repository Structure
+
+- /prompts → AI image & creative prompts  
+- /blog → SEO & content writing prompts
+
+---
+  
 ## 🌍 About the Project
 
 This project aims to build a **large open-source AI prompt ecosystem** that helps users:
