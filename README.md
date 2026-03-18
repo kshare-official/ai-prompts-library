@@ -16,6 +16,13 @@
 A curated library designed for **developers, bloggers, marketers, designers, and creators** who want to generate **viral content, realistic images, and high-quality outputs using AI**.
 
 ---
+## 👀 Example Prompt
+
+### 🎬 Cinematic Portrait Prompt
+
+Stylish portrait of a young man with modern hairstyle and beard, wearing sunglasses and black shirt and gray pants with black loafer. Create a double-exposure style design with a large close-up face in the background and a full-body sitting pose in the foreground. Add a soft sunset sky background with flying birds, smooth gradient colors, and artistic lighting. The photo should look cinematic, professional, and highly polished. Use Pre uploaded photo
+
+---
 
 ## 🌐 Explore Full Prompt Library
 
