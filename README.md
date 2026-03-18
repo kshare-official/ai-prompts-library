@@ -19,6 +19,7 @@ A curated library designed for **developers, bloggers, marketers, designers, and
 ## 🌐 Explore Full Prompt Library
 
 👉 **Best AI Prompts Collection**: https://kshare.in
+
 👉 **Free ChatGPT Prompts**: https://kshare.in/prompts/
 
 💡 Discover **1000+ SEO-optimized prompts** for content writing, image generation, and automation.
@@ -29,11 +30,11 @@ A curated library designed for **developers, bloggers, marketers, designers, and
 
 Most prompt collections are basic. This one is different.
 
-✔ Professionally tested prompts
-✔ SEO-focused and high CPC use cases
-✔ Beginner to advanced level prompts
-✔ Regularly updated with trending AI prompts
-✔ Designed for real-world results (traffic, engagement, conversions)
+* ✔ Professionally tested prompts
+* ✔ SEO-focused and high CPC use cases
+* ✔ Beginner to advanced level prompts
+* ✔ Regularly updated with trending AI prompts
+* ✔ Designed for real-world results (traffic, engagement, conversions)
 
 ---
 
