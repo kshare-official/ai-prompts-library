@@ -26,9 +26,9 @@ Stylish portrait of a young man with modern hairstyle and beard, wearing sunglas
 
 ## 🌐 Explore Full Prompt Library
 
-👉 [**Best AI Prompts Collection**](https://kshare.in)
+👉 [**Best AI Prompts Library – 1000+ Free ChatGPT & Midjourney Prompts**](https://kshare.in)
 
-👉 [**Free ChatGPT Prompts**](https://kshare.in/prompts/)
+👉 [**Free ChatGPT Prompts for Writing, SEO & Content Creation**](https://kshare.in/prompts/)
 
 💡 Discover **1000+ SEO-optimized prompts** for content writing, image generation, and automation.
 
@@ -59,18 +59,39 @@ Most prompt collections are basic. This one is different.
 
 ---
 
-## 📖 Featured Guides & Resources
+## 🔥 Featured AI Prompts & Guides
 
-Boost your AI workflow with detailed guides:
+Explore some of the **most viral and trending AI prompts** for content creation, blogging, and realistic image generation.
 
-* 👉 https://kshare.in/blog/chatgpt-prompts-for-writing-blog-posts
-* 👉 https://kshare.in/prompt/ai-birthday-photoshoot-prompt-princess-birthday-girl
-* 👉 https://kshare.in/prompt/cyber-noir-ai-portrait-from-photo-neon-futuristic-photo-edit
-* 👉 https://kshare.in/prompt/ai-editorial-portrait-prompt-cinematic-photorealistic-orange-red-studio-portrait
-* 👉 https://kshare.in/prompt/ai-editorial-fashion-portrait-prompt-cinematic-magazine-cover-photo
-* 👉 https://kshare.in/blog/midjourney-prompts-for-realistic-portraits
-* 👉 https://kshare.in/prompt/realistic-mirror-selfie-ai-prompt-indian-saree-girl
-* 👉 https://kshare.in/prompt/ultra-realistic-cinematic-ai-photo-prompt-water-park-couple
+These resources are perfect for **bloggers, marketers, and creators** who want to generate **high-quality content, SEO-friendly articles, and stunning AI images**.
+
+---
+
+### ✍️ Writing & SEO Prompts
+
+* 👉 [**ChatGPT Prompts for Writing Blog Posts (SEO Guide)**](https://kshare.in/blog/chatgpt-prompts-for-writing-blog-posts)
+
+---
+
+### 🎨 AI Image Generation Prompts
+
+* 👉 [**AI Birthday Photoshoot Prompt (Princess Theme)**](https://kshare.in/prompt/ai-birthday-photoshoot-prompt-princess-birthday-girl)
+* 👉 [**Cyber Noir AI Portrait Prompt (Futuristic Neon Style)**](https://kshare.in/prompt/cyber-noir-ai-portrait-from-photo-neon-futuristic-photo-edit)
+* 👉 [**AI Editorial Portrait Prompt (Cinematic Studio Look)**](https://kshare.in/prompt/ai-editorial-portrait-prompt-cinematic-photorealistic-orange-red-studio-portrait)
+* 👉 [**AI Fashion Editorial Prompt (Magazine Cover Style)**](https://kshare.in/prompt/ai-editorial-fashion-portrait-prompt-cinematic-magazine-cover-photo)
+* 👉 [**Realistic Mirror Selfie AI Prompt (Indian Saree Style)**](https://kshare.in/prompt/realistic-mirror-selfie-ai-prompt-indian-saree-girl)
+* 👉 [**Ultra Realistic AI Photo Prompt (Water Park Scene)**](https://kshare.in/prompt/ultra-realistic-cinematic-ai-photo-prompt-water-park-couple)
+
+---
+
+### 📸 Midjourney Prompts
+
+* 👉 [**51 MidJourney Prompts for Realistic Portraits (2026 Guide)**](https://kshare.in/blog/midjourney-prompts-for-realistic-portraits)
+
+---
+
+💡 *More prompts available here:*
+👉 https://kshare.in/prompts/
 
 ---
 
