@@ -71,6 +71,7 @@ These resources are perfect for **bloggers, marketers, and creators** who want t
 
 * 👉 [**ChatGPT Prompts for Writing Blog Posts (SEO Guide)**](https://kshare.in/blog/chatgpt-prompts-for-writing-blog-posts)
 * 👉 [**AI Prompts for Writing Books: 100+ Creative Ideas to Write a Bestseller Fast**](https://kshare.in/blog/ai-prompts-for-writing-books)
+* 👉 [**Top ChatGPT Prompts for SEO Optimization (100+ Powerful Prompts for Ranking #1)**](https://kshare.in/blog/chatgpt-prompts-for-seo-optimization)
 
 ---
 
