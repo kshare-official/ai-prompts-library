@@ -92,6 +92,12 @@ These resources are perfect for **bloggers, marketers, and creators** who want t
 
 ---
 
+### ✍️ Best ChatGPT & Scripts Prompts
+
+* 👉 [**🚀 ChatGPT Prompts for YouTube Scripts (150+ Viral Ideas)**](https://kshare.in/blog/chatgpt-prompts-for-youtube-scripts)
+
+---
+
 💡 *More prompts available here:*
 👉 https://kshare.in/prompts/
 
