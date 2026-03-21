@@ -83,6 +83,7 @@ These resources are perfect for **bloggers, marketers, and creators** who want t
 * 👉 [**AI Fashion Editorial Prompt (Magazine Cover Style)**](https://kshare.in/prompt/ai-editorial-fashion-portrait-prompt-cinematic-magazine-cover-photo)
 * 👉 [**Realistic Mirror Selfie AI Prompt (Indian Saree Style)**](https://kshare.in/prompt/realistic-mirror-selfie-ai-prompt-indian-saree-girl)
 * 👉 [**Ultra Realistic AI Photo Prompt (Water Park Scene)**](https://kshare.in/prompt/ultra-realistic-cinematic-ai-photo-prompt-water-park-couple)
+* 👉 [**Ultra Realistic Underwater Portrait AI Image – 8K Cinematic Water Face Effect**](https://kshare.in/prompt/ultra-realistic-underwater-portrait-ai-image-8k-cinematic-water-face-effect)
 
 ---
 
