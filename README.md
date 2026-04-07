@@ -100,6 +100,11 @@ These resources are perfect for **bloggers, marketers, and creators** who want t
 
 ---
 
+### ✍️ Fashion AI Prompts
+
+* 👉 [**Gemini Prompts for Girls in Lehenga: AI Bridal Photo Swap**](https://kshare.in/prompt/gemini-prompts-girls-lehenga)
+
+---
 💡 *More prompts available here:*
 👉 https://kshare.in/prompts/
 
